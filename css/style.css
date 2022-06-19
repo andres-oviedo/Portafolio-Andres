@@ -1,0 +1,178 @@
+.header-area.sticky {
+    /*box-shadow: 0 4px 10px rgba(0, 0, 0, 0.10);*/
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+	transition: 0.3s all ease;
+}
+.header-area.sticky .navbar-light{
+	background-color: #fff !important;
+}
+
+@font-face{
+	font-family: 'oswald';
+	src: url("../fonts/Oswald-VariableFont_wght.ttf") format('truetype');
+}
+
+@font-face{
+	font-family: 'roboto';
+	src: url("../fonts/RobotoCondensed-Regular.ttf") format('truetype');	
+}
+
+@font-face{
+	font-family: 'barlow semibold';
+	src: url("../fonts/BarlowCondensed-SemiBold.ttf") format('truetype');	
+}
+
+@font-face{
+	font-family: 'barlow medium';
+	src: url("../fonts/BarlowCondensed-Medium.ttf") format('truetype');	
+}
+
+#hero{
+	background-image: url("../img/img-fondo.png");
+	background-position: top center; 
+	background-size: cover;
+	padding: 5% 0;
+	background-color:#0A0b2A;
+	text-align: center;
+	color: #fff;
+	
+}
+
+#portafolio{
+	background-color: #0A0b2A;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+#colorscript-slides{
+	background-color: #0A0b2A;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+#ilustracion{
+	background-color: #0A0b2A;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+#acerca{
+	background-color: #0A0b2A;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+#servicios{
+	background-color: #0A0b2A;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+#contacto{
+	background-color: #0A0b2A;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+footer{
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+footer p{
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: 40px;
+}
+
+footer i{
+	text-align: center;
+	font-size: 30px;
+}
+
+.copyright{
+	font-size: 20px;
+}
+
+
+
+
+h1{
+	font-family: 'oswald';
+	font-size: 134px;
+	font-weight: 900;
+	letter-spacing: 5px;
+	padding: 20px;
+}
+
+p{
+	font-family: 'barlow medium';
+	padding: 70px;
+}
+
+.presentacion{
+	text-transform: uppercase;
+	font-size: 55px;
+}
+
+.disfruto{
+	font-size: 43px;
+}
+
+h2{
+	font-family: 'barlow semibold';
+	font-size: 111px;
+	text-transform: uppercase;
+}
+
+h3{
+	font-family: 'barlow medium';
+	font-size: 49px;
+	text-transform: uppercase;
+	padding: 20px;
+}
+
+.contarte{
+	font-size: 55px;
+}
+
+.intereses{
+	font-size: 43px;
+}
+
+.contactame{
+	font-size: 43px;
+}
+
+#servicios{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 40px;
+}
+
+#servicios i{
+	padding: 50px;
+}
+
+
+#acerca img{
+	margin-top: 60px;
+}
+
+
+
+
+
