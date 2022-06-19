@@ -31,6 +31,10 @@
 	src: url("../fonts/BarlowCondensed-Medium.ttf") format('truetype');	
 }
 
+body{
+	text-align: center;
+}
+
 #hero{
 	background-image: url("../img/img-fondo.png");
 	background-position: top center; 
@@ -111,8 +115,8 @@ footer i{
 
 h1{
 	font-family: 'oswald';
-	font-size: 134px;
-	font-weight: 900;
+	font-size: 100px;
+	font-weight: 600;
 	letter-spacing: 5px;
 	padding: 20px;
 }
@@ -124,7 +128,7 @@ p{
 
 .presentacion{
 	text-transform: uppercase;
-	font-size: 55px;
+	font-size: 45px;
 }
 
 .disfruto{
@@ -133,7 +137,7 @@ p{
 
 h2{
 	font-family: 'barlow semibold';
-	font-size: 111px;
+	font-size: 60px;
 	text-transform: uppercase;
 }
 
@@ -160,11 +164,11 @@ h3{
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 #servicios i{
-	padding: 50px;
+	padding-top: 50px;
 }
 
 
