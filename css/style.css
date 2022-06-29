@@ -160,6 +160,11 @@ h3{
 	font-size: 43px;
 }
 
+.redes{
+	font-size: 43px;
+	padding: 10px 0;
+}
+
 #servicios{
 	text-align: center;
 	text-transform: uppercase;
@@ -176,7 +181,9 @@ h3{
 	margin-top: 60px;
 }
 
-
+footer i{
+	font-size: 50px;
+}
 
 
 
